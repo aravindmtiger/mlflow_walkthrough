@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/f1616c63d40a40b1a5ecd0158a8e37fd/artifacts
+end_time: 1715706571456
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: f1616c63d40a40b1a5ecd0158a8e37fd
+run_name: exultant-rook-459
+run_uuid: f1616c63d40a40b1a5ecd0158a8e37fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715706547870
+status: 3
+tags: []
+user_id: aravind.raman

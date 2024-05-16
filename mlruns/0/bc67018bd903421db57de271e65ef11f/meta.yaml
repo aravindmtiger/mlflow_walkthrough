@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bc67018bd903421db57de271e65ef11f/artifacts
+end_time: 1715705640457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc67018bd903421db57de271e65ef11f
+run_name: ''
+run_uuid: bc67018bd903421db57de271e65ef11f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715705618533
+status: 4
+tags: []
+user_id: aravind.raman

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/3c22354e59544086a5f31a8f60e30841/artifacts
+end_time: 1715793600271
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: 3c22354e59544086a5f31a8f60e30841
+run_name: sample
+run_uuid: 3c22354e59544086a5f31a8f60e30841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715793569277
+status: 3
+tags: []
+user_id: aravind.raman

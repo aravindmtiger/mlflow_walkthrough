@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/c2e6bb6fe0c54c3ab741b06b291f3310/artifacts
+end_time: 1715756155992
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: c2e6bb6fe0c54c3ab741b06b291f3310
+run_name: handsome-hog-333
+run_uuid: c2e6bb6fe0c54c3ab741b06b291f3310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715756129565
+status: 3
+tags: []
+user_id: aravind.raman

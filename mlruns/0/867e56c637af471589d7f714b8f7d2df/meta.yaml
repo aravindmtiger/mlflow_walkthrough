@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/867e56c637af471589d7f714b8f7d2df/artifacts
+end_time: 1715794581154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 867e56c637af471589d7f714b8f7d2df
+run_name: carefree-mink-381
+run_uuid: 867e56c637af471589d7f714b8f7d2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794573099
+status: 4
+tags: []
+user_id: aravind.raman

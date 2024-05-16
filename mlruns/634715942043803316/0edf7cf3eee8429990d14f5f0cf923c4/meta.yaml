@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/0edf7cf3eee8429990d14f5f0cf923c4/artifacts
+end_time: 1715706366271
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: 0edf7cf3eee8429990d14f5f0cf923c4
+run_name: popular-shark-573
+run_uuid: 0edf7cf3eee8429990d14f5f0cf923c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715706351651
+status: 4
+tags: []
+user_id: aravind.raman

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/86b3a415c381476f8f321a554795e109/artifacts
+end_time: 1715794668307
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: 86b3a415c381476f8f321a554795e109
+run_name: sneaky-goose-560
+run_uuid: 86b3a415c381476f8f321a554795e109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794654276
+status: 3
+tags: []
+user_id: aravind.raman

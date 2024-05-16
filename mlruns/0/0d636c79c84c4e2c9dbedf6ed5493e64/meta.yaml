@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d636c79c84c4e2c9dbedf6ed5493e64/artifacts
+end_time: 1715706154130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d636c79c84c4e2c9dbedf6ed5493e64
+run_name: brawny-fish-175
+run_uuid: 0d636c79c84c4e2c9dbedf6ed5493e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715706139457
+status: 4
+tags: []
+user_id: aravind.raman

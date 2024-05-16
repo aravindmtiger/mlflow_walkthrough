@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6de7de9094fc4ccc92760c17d13233ac/artifacts
+end_time: 1715706516543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6de7de9094fc4ccc92760c17d13233ac
+run_name: colorful-horse-7
+run_uuid: 6de7de9094fc4ccc92760c17d13233ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715706501617
+status: 4
+tags: []
+user_id: aravind.raman

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/e7154691cb184a3e866b8181096e11a4/artifacts
+end_time: 1715793491538
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: e7154691cb184a3e866b8181096e11a4
+run_name: mercurial-squid-10
+run_uuid: e7154691cb184a3e866b8181096e11a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715793452501
+status: 3
+tags: []
+user_id: aravind.raman

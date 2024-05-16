@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/634715942043803316/e022e856a43840aaa69587d9adfc3fb9/artifacts
+end_time: 1715793555913
+entry_point_name: ''
+experiment_id: '634715942043803316'
+lifecycle_stage: active
+run_id: e022e856a43840aaa69587d9adfc3fb9
+run_name: kindly-ray-15
+run_uuid: e022e856a43840aaa69587d9adfc3fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715793495996
+status: 3
+tags: []
+user_id: aravind.raman

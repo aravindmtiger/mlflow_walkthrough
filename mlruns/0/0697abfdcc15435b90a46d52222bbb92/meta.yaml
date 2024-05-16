@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0697abfdcc15435b90a46d52222bbb92/artifacts
+end_time: 1715704734525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0697abfdcc15435b90a46d52222bbb92
+run_name: classy-vole-396
+run_uuid: 0697abfdcc15435b90a46d52222bbb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715704713536
+status: 4
+tags: []
+user_id: aravind.raman

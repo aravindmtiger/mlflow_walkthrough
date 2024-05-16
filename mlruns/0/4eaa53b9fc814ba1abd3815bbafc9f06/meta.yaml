@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4eaa53b9fc814ba1abd3815bbafc9f06/artifacts
+end_time: 1715705510149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eaa53b9fc814ba1abd3815bbafc9f06
+run_name: omniscient-hare-465
+run_uuid: 4eaa53b9fc814ba1abd3815bbafc9f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715705496199
+status: 4
+tags: []
+user_id: aravind.raman

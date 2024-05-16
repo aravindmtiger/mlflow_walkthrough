@@ -1,0 +1,16 @@
+artifact_uri: /mnt/c/Users/aravind.raman/Downloads/mlflow_walkthrough/mlruns/445290221554630058/d2d22b71f9124aff89b81fafc4a52b02/artifacts
+deleted_time: 1715705820638
+end_time: 1715706323519
+entry_point_name: ''
+experiment_id: '445290221554630058'
+lifecycle_stage: deleted
+run_id: d2d22b71f9124aff89b81fafc4a52b02
+run_name: hilarious-ape-981
+run_uuid: d2d22b71f9124aff89b81fafc4a52b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715706308870
+status: 4
+tags: []
+user_id: aravind.raman
